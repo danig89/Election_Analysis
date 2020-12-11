@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 Th purpose of this project was to assist a Colorado Board of Elections employee with auditing the results of a recent local congressional election. The objective was to:
 
 1. Calculate the total number of votes cast.
@@ -29,9 +29,5 @@ The analysis of the election show that:
     - Candidate Raymon Anthony Doane received 11,606 votes; 3.1% of the vote.
 - The winner of the election was:
     - Winner: Diana DeGette, who received 272,892 votes; 73.8% of the vote.
-
-# Challenge 
-
-## Overview of Election Audit
 
 ## Election-Audit Summary
