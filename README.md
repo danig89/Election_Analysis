@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-Th purpose of this project was to assist a Colorado Board of Elections employee with auditing the results of a recent local congressional election. The objective was to:
+The purpose of this project was to assist a Colorado Board of Elections employee with auditing the results of a recent local congressional election. The objective was to:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -13,19 +13,10 @@ Th purpose of this project was to assist a Colorado Board of Elections employee 
 - Data Source: [election_results.csv](Resources/election_results.csv)
 - Software: Python 3.7.6, Visual Studio Code 1.51.1
 
-## Election-Audit Results
-
-![Election Analysis Reults](Resources/election_results.png)
-
+## Summary
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
-- The county results were:
-    - Jefferson received 38,855 votes; 10.5% of the vote.
-    - Denver received 306,055 votes; 82.8% of the vote.
-    - Arapahoe received 24,801 votes; 6.7% of the vote.
-- Which county had the largest number of votes?
-    - Denver had the largest number of votes with 306,055 votes.
 - The candidate results were:
     - Candidate Charles Casper Stockham received 85,213 votes; 23.0% of the vote.
     - Candidate Diana DeGette received 272,892 votes; 73.8% of the vote.
@@ -33,5 +24,27 @@ The analysis of the election show that:
 - The winner of the election was:
     - Winner: Diana DeGette, who received 272,892 votes; 73.8% of the vote.
 
-## Election-Audit Summary
+## Challenge Overview
+After determining the winner of the election, the Colorado Board of Elections needed to know how each county performed. The objective was to determine voter turnout for each county, calculate the percentage of votes from each county, and determine which county had the highest turnout. This was acheived by:
+
+1. Adding the list of counties.
+2. Calculating the total number of voters from each county.
+3. Calculating the percentage of voters in each county.
+4. Determining the largest county turnout.
+
+## Challenge Summary
+
+### Election-Audit Results
+![Election Analysis Reults](Resources/election_results.png)
+
+- The county results were:
+    - Jefferson received 38,855 votes; 10.5% of the vote.
+    - Denver received 306,055 votes; 82.8% of the vote.
+    - Arapahoe received 24,801 votes; 6.7% of the vote.
+- County with the largest number of votes:
+    - Denver had the largest number of votes with 306,055 votes.
+
+### Election-Audit Summary
+
+
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
