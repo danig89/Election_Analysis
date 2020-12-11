@@ -25,12 +25,11 @@ The analysis of the election show that:
     - Winner: Diana DeGette, who received 272,892 votes; 73.8% of the vote.
 
 ## Challenge Overview
-After determining the winner of the election, the Colorado Board of Elections needed to know how each county performed. The objective was to determine voter turnout for each county, calculate the percentage of votes from each county, and determine which county had the highest turnout. This was acheived by:
+After determining the winner of the election, the Colorado Board of Elections needed to know how each county performed. The objective was to:
 
-1. Adding the list of counties.
-2. Calculating the total number of voters from each county.
-3. Calculating the percentage of voters in each county.
-4. Determining the largest county turnout.
+1. Calculate the total number of voters from each county.
+2. Calculate the percentage of voters in each county.
+3. Determine the largest county turnout.
 
 ## Challenge Summary
 
