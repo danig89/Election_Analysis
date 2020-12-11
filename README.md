@@ -34,7 +34,7 @@ After determining the winner of the election, the Colorado Board of Elections ne
 ## Challenge Summary
 
 ### Election-Audit Results
-![Election Analysis Reults](Resources/election_results.png)
+![Election Analysis Results](Resources/election_results.png)
 
 - The county results were:
     - Jefferson received 38,855 votes; 10.5% of the vote.
@@ -45,5 +45,10 @@ After determining the winner of the election, the Colorado Board of Elections ne
 
 ### Election-Audit Summary
 
+The script can be modified in various ways to work for other election analysis. For example, a easy modification is to change the election results file as pictured below.
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+![Load File Code](Resources/load_save.png)
+
+Another change could be to add additional data to analysis. For example, in the audit above, we focused on candidates and counties. What if we needed to narrow down votes to cities? This can be done by adding code to extract city data under "for row in reader:"i.e., city_name = row[x]
+
+![Row Code](Resources/row_code.png)
