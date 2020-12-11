@@ -17,7 +17,6 @@ Th purpose of this project was to assist a Colorado Board of Elections employee 
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - The county results were:
     - Jefferson received 38,855 votes; 10.5% of the vote.
     - Denver received 306,055 votes; 82.8% of the vote.
