@@ -45,7 +45,7 @@ After determining the winner of the election, the Colorado Board of Elections ne
 
 ### Election-Audit Summary
 
-The script can be modified in various ways to work for other election analysis. For example, a easy modification is to change the election results file as pictured below.
+The script can be modified in various ways to work for other election analysis. For example, a easy modification is to change the "election_results.csv" file as pictured below.
 
 ![Load File Code](Resources/load_save.png)
 
