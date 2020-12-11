@@ -14,6 +14,9 @@ Th purpose of this project was to assist a Colorado Board of Elections employee 
 - Software: Python 3.7.6, Visual Studio Code 1.51.1
 
 ## Election-Audit Results
+
+![Election Analysis Reults](Resources/election_results.png)
+
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
