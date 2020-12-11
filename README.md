@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Election Analysis Project Overview
+## Project Overview
 The purpose of this project was to assist a Colorado Board of Elections employee with auditing the results of a recent local congressional election. The objective was to:
 
 1. Calculate the total number of votes cast.
